@@ -3,3 +3,6 @@ Guess The JS - it's a classic guess the number game. System generates random num
 
 ## If you want to play, so... ##
 go to the link: guessthejs.netlify.app
+But we have another versions:
+Hardcore Mode: guessthejs-hardcore.netlify.app
+Russian version/Русская версия: not released yet.
